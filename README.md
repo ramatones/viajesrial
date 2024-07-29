@@ -1,2 +1,2 @@
-# viajesrial
+ viajesrial
 primerarepositorio
